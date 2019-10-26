@@ -1,0 +1,1 @@
+show databases; /* show all my databases*/
